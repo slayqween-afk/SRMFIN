@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MathAssessment-PartB-Manager",
+  "description": "A comprehensive SOP management and evaluation tool for Advanced Calculus (Part B) offline assessments, featuring AI-assisted grading, conduct reporting, and scanning workflows.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
